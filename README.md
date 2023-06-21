@@ -68,7 +68,7 @@ You can install these libraries using the following command:
 
 ## Results
 
-The notebook bmi_classification.ipynb compares the performance of several machine learning models for BMI classification. The models evaluated include:
+The notebook compares the performance of several machine learning models for BMI classification. The models evaluated include:
 
 - K-Nearest Neighbors (KNN)
 - Support Vector Classifier (SVC) with linear kernel
